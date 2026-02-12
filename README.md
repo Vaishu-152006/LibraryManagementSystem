@@ -14,3 +14,9 @@ Overall, the Library Management System serves as a foundational project for lear
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4a8077de-570a-47b4-8dc5-ca56928dc418" />
 
+<img width="400" height="322" alt="image" src="https://github.com/user-attachments/assets/8d8f4e40-070e-486f-9930-d77edca0722f" />
+
+<img width="400" height="412" alt="image" src="https://github.com/user-attachments/assets/a9d83045-d8c6-4f69-bf14-69aa8b203744" />
+
+
+
